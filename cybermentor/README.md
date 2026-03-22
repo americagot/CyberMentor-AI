@@ -112,7 +112,3 @@ Gemma models don't support the `system` role, so the system prompt is prepended 
 4. Deploy
 
 ---
-
-## License
-
-MIT
